@@ -1,9 +1,8 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Hook Use Ref" />
+  <img src="./src/assets/demo.gif" alt="Hook Use Ref" />
 
 &#xa0;
 
-  <!-- <a href="https://hookuseref.netlify.app">Demo</a> -->
 </div>
 
 <h1 align="center">Hook Use Ref Use Cases</h1>
